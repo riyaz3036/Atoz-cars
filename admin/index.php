@@ -139,16 +139,7 @@
 </div>
 <!-- End Container -->
 
-<!-- Footer -->
-<div id="footer">
-	<div class="shell">
-		<span class="left">&copy; <?php echo date("Y");?> - Sonko Rescue Team</span>
-		<span class="right">
-			Design by Consi</a>
-		</span>
-	</div>
-</div>
-<!-- End Footer -->
+
 	
 </body>
 </html>
