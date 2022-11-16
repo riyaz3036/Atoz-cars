@@ -8,7 +8,7 @@
 	}
 ?>
 <div id="top">
-			<h1><a href="#">Sonko Rescue Team</a></h1>
+			<h1><a href="#">A to Z</a></h1>
 			<div id="top-navigation">
 				Welcome <a href="#"><strong>Administrator</strong></a>
 				<span>|</span>
