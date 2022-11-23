@@ -71,11 +71,11 @@
 				<form method="post">
 					<table>
 						<tr>
-							<td>MPESA Transaction ID:</td>
+							<td>UPI ID:</td>
 							<td><input type="text" name="mpesa" required></td>
 						</tr>
 						<tr>
-							<td>National ID Number:</td>
+							<td>Adhaar ID Number:</td>
 							<td><input type="text" name="id_no" required></td>
 						</tr>
 						
@@ -147,12 +147,9 @@
 				</li>
 
 				<li class="about">
-					<p>A to Z is an organized company that rents cars and other vehicles to clients at lower costs. We we are here to serve every Kenyan Citizen</p>
+					<p>A to Z is a company that rents cars and other vehicles to clients at lower costs</p>
 					<ul>
-						<li><a href="http://facebook.com/sonko" class="facebook" target="_blank"></a></li>
-						<li><a href="http://twitter.com/sonko" class="twitter" target="_blank"></a></li>
-						<li><a href="http://plus.google.com/+sonko" class="google" target="_blank"></a></li>
-						<li><a href="#" class="skype"></a></li>
+						
 					</ul>
 				</li>
 			</ul>
