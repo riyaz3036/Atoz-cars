@@ -65,9 +65,9 @@
 	<section class="listings">
 		<div class="wrapper">
 			<ul class="properties_list">
-				<h2 style="text-align:center; color:#FF0000; font-family: 'Courier New', Courier, monospace">Thank you for sending a request to Sonko Rescue Team. 
+				<h2 style="text-align:center; color:#FF0000; font-family: 'Courier New', Courier, monospace">Thank you for sending a request to A to Z Team. 
 				We will get back to you once we verify your payment.<br>
-				You can login to view the processing status of your request using your email and the National ID Number as password.</h2>
+				You can login to view the processing status of your request using your email and the Adhaar Number as password.</h2>
 			</ul>
 			
 		</div>
@@ -107,13 +107,8 @@
 				</li>
 
 				<li class="about">
-					<p>A to Z is an organized company that rents cars and other vehicles to clients at lower costs. We we are here to serve every Kenyan Citizen</p>
-					<ul>
-						<li><a href="http://facebook.com/sonko" class="facebook" target="_blank"></a></li>
-						<li><a href="http://twitter.com/sonko" class="twitter" target="_blank"></a></li>
-						<li><a href="http://plus.google.com/+sonko" class="google" target="_blank"></a></li>
-						<li><a href="#" class="skype"></a></li>
-					</ul>
+					<p>A to Z is a company that rents cars and other vehicles to clients at lower cost</p>
+					
 				</li>
 			</ul>
 		</div>
